@@ -1,0 +1,4 @@
+test
+12345
+zdanie do sprawdzenia
+nowa linia
